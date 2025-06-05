@@ -1,6 +1,6 @@
 # 👔 GestorLite – Sistema de Cadastro de Funcionários
 
-Sistema simples e funcional desenvolvido com **PHP puro** e **MySQL**, com interface moderna e leve. Criado para praticar lógica, organização de código, banco de dados e sessões em PHP — ideal para pequenos cadastros internos.
+Sistema simples e funcional desenvolvido com **PHP** e **MySQL**, com interface moderna e leve. Criado para praticar lógica, organização de código, banco de dados e sessões em PHP — ideal para pequenos cadastros internos.
 
 ![Screenshot](screenshot2.png)
 
@@ -40,7 +40,7 @@ Sistema simples e funcional desenvolvido com **PHP puro** e **MySQL**, com inter
 ---
 
 ## 📁 Estrutura de arquivos
-
+```
 gestorlite/
 ├── index.php            # Tela de login
 ├── conexao.php          # Conexão com o banco de dados
@@ -50,9 +50,12 @@ gestorlite/
 ├── excluir.php          # Exclusão
 ├── banco.sql            # Estrutura inicial do banco
 └── screenshot2.png      # Imagem de preview
+```
 
-🧑‍💻 Autor
-Igor Farias Valentim
-🌐 github.com/IgorFariasValentim
+---
 
-Se esse projeto te ajudou ou inspirou, ⭐ dá uma estrela no repositório!
+## 🚀 Autor
+**Igor Farias Valentim**  
+[github.com/IgorFariasValentim](https://github.com/IgorFariasValentim)
+
+Se esse projeto te ajudou, deixa uma ⭐ lá no repositório!
