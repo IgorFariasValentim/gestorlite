@@ -41,3 +41,18 @@ Sistema simples e funcional desenvolvido com **PHP puro** e **MySQL**, com inter
 
 ## 📁 Estrutura de arquivos
 
+gestorlite/
+├── index.php            # Tela de login
+├── conexao.php          # Conexão com o banco de dados
+├── cadastrar.php        # Cadastro de funcionários
+├── listar.php           # Listagem de dados
+├── editar.php           # Edição
+├── excluir.php          # Exclusão
+├── banco.sql            # Estrutura inicial do banco
+└── screenshot2.png      # Imagem de preview
+
+🧑‍💻 Autor
+Igor Farias Valentim
+🌐 github.com/IgorFariasValentim
+
+Se esse projeto te ajudou ou inspirou, ⭐ dá uma estrela no repositório!
